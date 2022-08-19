@@ -74,7 +74,7 @@ Module Program
             studentExamMarks = Console.ReadLine()
             
             If (studentCatMarks > 50 And studentCatMarks < 0) Or (studentExamMarks > 50 And studentExamMarks < 0) Then
-                Console.WriteLine("None of CAT or exam marks should be between 0 and 50")
+                Console.WriteLine("CAT or exam marks should be between 0 and 50")
                 Else 
                     Dim student As New Student(studentName, studentCatMarks, studentExamMarks)
                     studentList.Add(student) 
