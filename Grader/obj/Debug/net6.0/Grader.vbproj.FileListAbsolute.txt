@@ -1,0 +1,15 @@
+/Users/eliemugenzi/RiderProjects/Grader/Grader/bin/Debug/net6.0/Grader
+/Users/eliemugenzi/RiderProjects/Grader/Grader/bin/Debug/net6.0/Grader.deps.json
+/Users/eliemugenzi/RiderProjects/Grader/Grader/bin/Debug/net6.0/Grader.runtimeconfig.json
+/Users/eliemugenzi/RiderProjects/Grader/Grader/bin/Debug/net6.0/Grader.dll
+/Users/eliemugenzi/RiderProjects/Grader/Grader/bin/Debug/net6.0/Grader.pdb
+/Users/eliemugenzi/RiderProjects/Grader/Grader/obj/Debug/net6.0/Grader.vbproj.AssemblyReference.cache
+/Users/eliemugenzi/RiderProjects/Grader/Grader/obj/Debug/net6.0/Grader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliemugenzi/RiderProjects/Grader/Grader/obj/Debug/net6.0/Grader.AssemblyInfoInputs.cache
+/Users/eliemugenzi/RiderProjects/Grader/Grader/obj/Debug/net6.0/Grader.AssemblyInfo.vb
+/Users/eliemugenzi/RiderProjects/Grader/Grader/obj/Debug/net6.0/Grader.vbproj.CoreCompileInputs.cache
+/Users/eliemugenzi/RiderProjects/Grader/Grader/obj/Debug/net6.0/Grader.dll
+/Users/eliemugenzi/RiderProjects/Grader/Grader/obj/Debug/net6.0/refint/Grader.dll
+/Users/eliemugenzi/RiderProjects/Grader/Grader/obj/Debug/net6.0/Grader.pdb
+/Users/eliemugenzi/RiderProjects/Grader/Grader/obj/Debug/net6.0/Grader.genruntimeconfig.cache
+/Users/eliemugenzi/RiderProjects/Grader/Grader/obj/Debug/net6.0/ref/Grader.dll
